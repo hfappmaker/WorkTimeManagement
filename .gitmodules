@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = C:\\Users\\furugakihiromitsu\\source\\repos\\WorkTimeManagement\\client
+[submodule "server"]
+	path = server
+	url = C:\\Users\\furugakihiromitsu\\source\\repos\\WorkTimeManagement\\server
